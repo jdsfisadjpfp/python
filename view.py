@@ -1,6 +1,6 @@
 from turtle import *
 import colorsys
-speed (0)
+speed (200)
 bgcolor("black")
 h = 0 
 for i in range (16):
